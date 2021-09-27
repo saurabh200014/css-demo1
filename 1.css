@@ -1,0 +1,25 @@
+.title{
+    background-color: aqua;
+    margin: auto;
+    text-align: center;
+    padding: 10;
+    text-decoration: underline;
+}
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right:auto;
+  width: 25%;
+  border-radius: 50%;
+  padding: 5;
+}
+.skill{
+    text-align: center;
+    background-color: blanchedalmond;
+    margin: auto;
+}
+.three{
+    text-align: center;
+    background-color: azure;
+    margin: auto;
+}
